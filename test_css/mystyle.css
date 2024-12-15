@@ -1,0 +1,15 @@
+body{
+    background-color: rgb(207, 233, 223);
+}
+p.normal {
+    font-size:12pt;
+    text-align: center;
+    color: blue;
+    }
+p.big {
+    font-size:16pt;
+    text-align: center;
+    color: red;
+    }
+
+    
